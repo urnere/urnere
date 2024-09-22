@@ -1,4 +1,4 @@
-<samp align="center">Hi there 👋, I'm <a href="https://www.urnere.dev/" target="_blank">Barış Manço Özdemir</a>. I am a graduate of Management Information Systems. I am improving myself in the field of Flutter and Frontend.</samp>
+<p align="center"><samp >Hi there 👋, I'm <a href="https://www.urnere.dev/" target="_blank">Barış Manço Özdemir</a>. I am a graduate of Management Information Systems. I am improving myself in the field of Flutter and Frontend.</samp></p>
 
 <samp align="center">Connect with me:</samp>
 <p align="center">
