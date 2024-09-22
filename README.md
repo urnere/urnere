@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">I'm <a href="https://www.urnere.dev/" target="_blank">Barış Manço Özdemir</a>. I am a graduate of Management Information Systems. I am improving myself in the field of Flutter and Frontend.</h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.urnere.dev/" target="_blank">Barış Manço Özdemir</a>. I am a graduate of Management Information Systems. I am improving myself in the field of Flutter and Frontend.</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
